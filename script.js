@@ -1,0 +1,1 @@
+var ourRequest = new XMLHttpRequest();
